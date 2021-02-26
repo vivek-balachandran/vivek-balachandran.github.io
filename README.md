@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/vivek-balachandran/vivek-balachandran.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- As a programmer, I love writing code and ardent passion to learn new technologies. I am open to new ideas and suggestions, with a strong realistic belief in my own capabilities and aspirations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Having 6+ years of Software Development experience in Banking and Education domains using Java and Oracle Technologies.
 
-### Markdown
+## Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   - Barclays
+   ``` (Working as Full Stack Engineer since May 2020) ```
+   - Sella India Software Service private limited
+   ``` (Worked as Associate Software Developer from May, 2017 until May, 2020) ```
+   - Hotcourses India private limited
+   ``` (Worked as Developer Analyst from Nov, 2014 until May, 2017) ```
 
-```markdown
-Syntax highlighted code block
+## Education
 
-# Header 1
-## Header 2
-### Header 3
+* Master of Technology in Birla Institute of Technology and Science, Pilani ``` (2020 - 2022) ```
+* Bachelor of Technology in Pondichery University, Puducherry ``` (2009 - 2013) ```
 
-- Bulleted
-- List
+## Certification
 
-1. Numbered
-2. List
+* OCJP SE6
+* IELTS
+* API Designer
 
-**Bold** and _Italic_ and `Code` text
+## Skills
 
-[Link](url) and ![Image](src)
-```
+* Programming Languages: Java, Spring MVC, Spring boot, JSTL, JUnit, EasyMock, REST Services, Axon framework
+* Databases: Oracle - SQL, PL/SQL
+* Scripting Languages: Python(Basics)
+* Web Technologies: HTML, CSS, Javascript, JQuery, ReactJS, Redux
+* Servers: Apache Tomcat, BEA Weblogic, ActiveMQ
+* Tools: IntelliJ, Eclipse IDE, Jira, SVN, Putty, PyCharm, VisualStudio, Anaconda
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Recommendation
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vivek-balachandran/vivek-balachandran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+``` Baburaj Annamalai ``` - Vivek is wonderful to work with. I had a pleasure of work with Vivek. He is technically strong in Java and PLSQL. Whenever market comes with new technology in scripting, he will update it to serve the market and ready to work with new challenges. All the best Vivek for the future en-devours.
